@@ -1,5 +1,4 @@
 # LiveProjectWriteup
-A code summary of the two week sprint
 
 <h1>Overview</h1>
   
